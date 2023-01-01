@@ -2,6 +2,12 @@ body {
 	background-color: #e5e5e5;
 }
 
+/* About me */
+
+.my-profession {
+	margin-bottom: 18px;
+}
+
 h2 {
 	font-size: 35px;
 }
