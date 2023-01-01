@@ -2,10 +2,19 @@ body {
 	background-color: #e5e5e5;
 }
 
+.wrapper {
+	display: flex;
+	flex-direction: row;
+	background: #fff;
+}
+
 /* Main content */
 
 .main-content {
 	padding-top: 88px;
+	padding-bottom: 88px;
+	padding-left: 88px;
+	padding-right: 88px;
 }
 
 /* About me */
