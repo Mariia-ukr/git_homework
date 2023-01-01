@@ -2,6 +2,12 @@ body {
 	background-color: #e5e5e5;
 }
 
+/* Main content */
+
+.main-content {
+	padding-top: 88px;
+}
+
 /* About me */
 
 .my-profession {
