@@ -5,3 +5,7 @@ body {
 h2 {
 	font-size: 35px;
 }
+
+.project-item {
+	background-color:pink
+}
