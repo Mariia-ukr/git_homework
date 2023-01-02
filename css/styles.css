@@ -34,3 +34,13 @@ h2 {
 .project-item {
 	background-color:pink
 }
+
+/* Sidebar */
+.sidebar {
+	width: 370px;
+	background: #E0EBFE;
+}
+
+.my-photo{
+	margin: 40px;
+}
