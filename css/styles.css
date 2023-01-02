@@ -23,16 +23,43 @@ body {
 
 /* About me */
 
+/* div about me  */
+
+.about-me-container {
+  margin-bottom: 64px;
+}
+
+/* h2 Front-End Developer  */
+
 .my-profession {
-  margin-bottom: 18px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  margin: 0 0 18px 0;
 }
 
-h2 {
-  font-size: 35px;
+/* h1 Mariia Skrypchuk */
+
+.my-name {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000000;
+  margin: 0 0 28px 0;
 }
 
-.project-item {
-  background-color: pink;
+/* p lorem */
+
+.my-description {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  width: 525px;
 }
 
 /* Sidebar */
@@ -125,7 +152,6 @@ h2 {
 /* Soft + Tech skills (text) */
 
 .skills-list-text {
-  font-family: "Montserrat";
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
