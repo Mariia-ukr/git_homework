@@ -62,7 +62,61 @@ body {
   width: 525px;
 }
 
-/* Sidebar */
+/* my project */
+
+/* div  */
+
+.my-project {
+  width: 525px;
+  margin-bottom: 48px;
+}
+
+/* h3 (project,work experiance,education) */
+
+.main-content-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+  margin: 0 0 12px 0;
+}
+
+/* my project ul>li class */
+
+.projects-list {
+  margin: 0;
+  padding: 0 0 0 18px;
+}
+
+.project-item {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.project-item-descr {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+/* my project > link */
+
+.project-item-link {
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+text-decoration-line: underline;
+color: #005FFF;
+}
+
+
 .sidebar {
   width: 370px;
   background: #e0ebfe;
