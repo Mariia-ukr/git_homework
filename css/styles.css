@@ -42,5 +42,68 @@ h2 {
 }
 
 .my-photo{
-	margin: 40px;
+	margin-top: 40px;
+}
+
+
+.sidebar-title {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 22px;
+	line-height: 27px;
+	color: #161D2A;
+	margin-bottom: 8px;
+}
+
+/* Contacts  */
+
+.contacts-container {
+	margin-top: 48px;
+	margin-left: 40px;
+}
+
+.contacts-type {
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+color: #161D2A;
+margin-right: 8px
+}
+
+.contacts-item {
+margin: 0;
+}
+
+.contacts-tel {
+	font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #161D2A;
+}
+
+.contacts-email {
+	font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color:#2979FF;
+
+}
+
+/* Tech-Skills  */
+
+.tech-skills-container {
+	margin-top: 48px;
+	margin-left: 40px;
+
+}
+
+/* Soft Skills  */
+
+.soft-skills-container {
+	margin-top: 48px;
+	margin-left: 40px;
+
 }
