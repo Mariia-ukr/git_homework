@@ -116,6 +116,65 @@ text-decoration-line: underline;
 color: #005FFF;
 }
 
+/* Work experiance */
+
+.work-experiance-container {
+  margin-bottom: 44px;
+}
+
+/* Company-1-2-3 div */
+
+.work-experiance-item {
+  margin-bottom: 16px;
+}
+
+/* Company - 1-2-3 h4  */
+
+.work-experiance-position {
+  font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+color: #000000;
+margin: 12px 0 12px 0;
+}
+
+/* name company blue color  */
+
+.work-experiance-company {
+  color:  #6D9BF5;
+}
+
+
+.work-period {
+  font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+color: #A8A8A8;
+margin: 8px 0 8px 0;
+}
+
+
+.work-duties-list {
+  margin: 0;
+  padding: 0 0 0 18px;
+}
+
+.work-duties {
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+}
+
+.punctuation-mark {
+  color: #000000;
+}
+
+
+/* Sidebar  */
 
 .sidebar {
   width: 370px;
